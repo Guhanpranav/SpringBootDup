@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0931d85-f856-43fe-aee0-0791d26f9ebf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../jobportal/src/main/java/com/example/jobportal/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jobportal/src/main/java/com/example/jobportal/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jobportal/src/main/java/com/example/jobportal/repository/userRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jobportal/src/main/java/com/example/jobportal/repository/userRepo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2mnc3WJ7twAdLzgxDugFkCHd6R5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "20240614201341",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0931d85-f856-43fe-aee0-0791d26f9ebf" name="Changes" comment="" />
+      <created>1727715584217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727715584217</updated>
+    </task>
+    <servers />
+  </component>
+</project>
